@@ -1,0 +1,279 @@
+[
+  {
+    "orderId": "ORD-2001",
+    "customerId": "CUST-001",
+    "customerName": "Arjun Mehta",
+    "amount": 1500,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-2002",
+    "customerId": "CUST-001",
+    "customerName": "Arjun Mehta",
+    "amount": 2200,
+    "refund": 200
+  },
+  {
+    "orderId": "ORD-2003",
+    "customerId": "CUST-001",
+    "customerName": "Arjun Mehta",
+    "amount": 760,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-2004",
+    "customerId": "CUST-001",
+    "customerName": "Arjun Mehta",
+    "amount": 3000,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-2005",
+    "customerId": "CUST-001",
+    "customerName": "Arjun Mehta",
+    "amount": 1800,
+    "refund": 0
+  },
+
+  {
+    "orderId": "ORD-3001",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 2890,
+    "refund": 200
+  },
+  {
+    "orderId": "ORD-3002",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 1200,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-3003",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 5100,
+    "refund": 400
+  },
+  {
+    "orderId": "ORD-3004",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 900,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-3005",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 3200,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-3006",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 4700,
+    "refund": 100
+  },
+  {
+    "orderId": "ORD-3007",
+    "customerId": "CUST-002",
+    "customerName": "Sneha Kapoor",
+    "amount": 1990,
+    "refund": 0
+  },
+
+  {
+    "orderId": "ORD-4001",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 5200,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4002",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 4500,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4003",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 3500,
+    "refund": 200
+  },
+  {
+    "orderId": "ORD-4004",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 900,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4005",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 2100,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4006",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 4200,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4007",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 800,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4008",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 1350,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-4009",
+    "customerId": "CUST-003",
+    "customerName": "Rohit Sharma",
+    "amount": 2500,
+    "refund": 0
+  },
+
+  {
+    "orderId": "ORD-5001",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 760,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-5002",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 1400,
+    "refund": 200
+  },
+  {
+    "orderId": "ORD-5003",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 1800,
+    "refund": 1800
+  },
+  {
+    "orderId": "ORD-5004",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 999,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-5005",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 2100,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-5006",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 3300,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-5007",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 1700,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-5008",
+    "customerId": "CUST-004",
+    "customerName": "Priya Nair",
+    "amount": 800,
+    "refund": 0
+  },
+
+  {
+    "orderId": "ORD-6001",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 2450,
+    "refund": 150
+  },
+  {
+    "orderId": "ORD-6002",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 3100,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-6003",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 1800,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-6004",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 2900,
+    "refund": 500
+  },
+  {
+    "orderId": "ORD-6005",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 1500,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-6006",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 999,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-6007",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 4300,
+    "refund": 1200
+  },
+  {
+    "orderId": "ORD-6008",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 2000,
+    "refund": 0
+  },
+  {
+    "orderId": "ORD-6009",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 3200,
+    "refund": 300
+  },
+  {
+    "orderId": "ORD-6010",
+    "customerId": "CUST-005",
+    "customerName": "Aisha Khan",
+    "amount": 2500,
+    "refund": 0
+  }
+]
